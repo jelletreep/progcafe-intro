@@ -30,6 +30,8 @@ Informal, low-threshold meetup for programmers
 | 15:00 - 16:00 | Presentation and discussion |
 | 16:00 - 17:00 | Social coding |
 
+: {.table-striped}
+
 :::
 
 ## Next edition
