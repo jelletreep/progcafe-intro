@@ -6,7 +6,7 @@ format:
     footer: "UU DCC"
 ---
 
-# Welcome to the UU Programming Cafe! {data-background-color="#FFCD00"}
+# Welcome to the UU Programming Cafe! {.r-fit-text data-background-color="#FFCD00"}
 
 ::: {.footer}
 :::
@@ -14,9 +14,12 @@ format:
 ## Code Along, Feel Empowered
 
 ::: {.theme-section}
-An informal space for researchers and research supporters to learn from one another and share programming know-how
 
-- Meet people working with code and data across Utrecht University
+<br>
+
+**An informal space for researchers, students and research support staff to learn from one another and share programming know-how**
+
+- Meet people working with code across Utrecht University
 - Pick up practical ideas and tools
 - Bring questions, curiosity, and your laptop
 
@@ -39,10 +42,32 @@ Work on your own project, troubleshoot a bug together, or discuss your issues wi
 
 :::
 
+## Facilitated by the UUDCC{background-image=images/DCC-Banner.png data-background-size="100%" data-background-position="right top" data-background-repeat="no-repeat"}
+
+::: {.theme-section-small}
+
+<br> 
+<br>
+
+The **UUDCC** connects teams across Utrecht University who support researchers in making the most of digital tools and expertise.
+
+<br>
+
+**How the UUDCC can help programmers**
+
+- **Get guidance** on software and engineering, HPC and cloud computing, AI, and research data management
+- **Build good practices** around open science, robustness, reproducibility and efficiency
+- **Training, projects, tools, consultancy** 
+
+Explore [uu.nl/dcc](https://www.uu.nl/dcc) or ask us where to start.
+
+:::
+
 ## Next editions
 
 ::: {.theme-section}
 
+- Topic: **tbd**
 - 21 January, 15:30
 - **University Library in City Center**
 
