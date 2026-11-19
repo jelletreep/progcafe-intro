@@ -11,7 +11,7 @@ format:
 ::: {.footer}
 :::
 
-## Code Along, Feel Empowered
+## Code Along, Feel Empowered{background-image=images/DCC-Banner.png data-background-size="100%" data-background-position="right top" data-background-repeat="no-repeat"}
 
 ::: {.theme-section}
 
@@ -25,9 +25,11 @@ format:
 
 :::
 
-## How the café works
+## How the café works{background-image=images/DCC-Banner.png data-background-size="100%" data-background-position="right top" data-background-repeat="no-repeat"}
 
 ::: {.theme-section}
+
+<br>
 
 **15:00 - Theme presentation or demo**  
 A short, interactive introduction to a programming topic (usually up to 30 minutes).
@@ -63,9 +65,11 @@ Explore [uu.nl/dcc](https://www.uu.nl/dcc) or ask us where to start.
 
 :::
 
-## Next editions
+## Next editions{background-image=images/DCC-Banner.png data-background-size="100%" data-background-position="right top" data-background-repeat="no-repeat"}
 
 ::: {.theme-section}
+
+<br>
 
 | Date | Location | Topic |
 |----|--------|---------------|
