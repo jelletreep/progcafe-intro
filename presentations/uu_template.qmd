@@ -11,37 +11,45 @@ format:
 ::: {.footer}
 :::
 
-## UU Programming Cafe
+## Code Along, Feel Empowered
 
 ::: {.theme-section}
-Informal, low-threshold meetup for programmers
+An informal space for researchers and research supporters to learn from one another and share programming know-how
 
-- All skill levels  
-- Research focus (not exclusive to UU)
-- Community driven (ideas and contributions welcome!)
+- Meet people working with code and data across Utrecht University
+- Pick up practical ideas and tools
+- Bring questions, curiosity, and your laptop
 
 :::
 
-## Agenda
+## How the café works
+
 ::: {.theme-section}
 
-| Time | Activity |
-| --- | --- |
-| 15:00 - 16:00 | Presentation and discussion |
-| 16:00 - 17:00 | Social coding |
+**15:00 - Theme presentation or demo**  
+A short, interactive introduction to a programming topic (usually up to 30 minutes).
 
-: {.table-striped}
+**15:30 - Questions, conversation, and snacks**  
+Ask questions, discussion, work on exercises.
+
+**16:00 - Community programming**  
+Work on your own project, troubleshoot a bug together, or discuss your issues with an engineer.
+
+**17:00 - Wrap-up**
 
 :::
 
-## Next edition
+## Next editions
 
 ::: {.theme-section}
 
-- **Git Catastrophes and how to avoid them**
-- 19 November, 15:00
-- Bucheliuszaal 6.18
+- 21 January, 15:30
+- **University Library in City Center**
 
+**Your input appreciated!**
+Have an idea for a future theme or want to present? Get in touch at [info.rdm@uu.nl](mailto:info.rdm@uu.nl).
+
+::: 
 
 # {data-background-color="#FFCD00"}
 
