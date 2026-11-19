@@ -67,11 +67,17 @@ Explore [uu.nl/dcc](https://www.uu.nl/dcc) or ask us where to start.
 
 ::: {.theme-section}
 
-- Topic: **tbd**
-- 21 January, 15:30
-- **University Library in City Center**
+| Date | Location | Topic |
+|----|--------|---------------|
+| 21 Jan | UB City Center | **tbd**, in collab with Research Software Lab |
+| 18 Feb | Androclus Building | **tbd**, in collab with IRAS |
 
-**Your input appreciated!**
+: {.table-striped}
+
+<br>
+<br>
+
+**Your input appreciated!**  
 Have an idea for a future theme or want to present? Get in touch at [info.rdm@uu.nl](mailto:info.rdm@uu.nl).
 
 ::: 
